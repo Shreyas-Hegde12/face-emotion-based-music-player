@@ -1,0 +1,6 @@
+Python                       3.10.11
+asyncio                      3.4.3
+Flask                        3.1.0
+numpy                        1.26.4
+yt-dlp                       2024.11.18
+ytmusicapi                   1.8.2
